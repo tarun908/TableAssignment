@@ -1,0 +1,25 @@
+ 
+td{
+    border: 1px solid;
+    text-align: center;
+   
+}
+table{
+    border: 1px solid;
+  }
+  
+  table {
+    width: 60%;
+    height: 40%;
+    border-collapse: collapse;
+    text-align: center;
+    border: solid 1px black;
+    margin-left: 210px;
+  }
+  #day-period{
+    background-color: rgb(160, 155, 155);
+    text-align: center;
+    border: 1px solid;
+
+  }
+
